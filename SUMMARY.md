@@ -62,6 +62,7 @@
   * [Data for the field](features/forms/data-for-the-field.md)
   * [Permissions, Title, Required](features/forms/permissions-title-required.md)
   * [Frontend Sorting](features/forms/frontend-sorting.md)
+  * [Searchable Fields](features/forms/searchable-fields.md)
   * [Donor Address Confirmation](features/forms/donor-address-confirmation.md)
 * [Settings](features/settings.md)
 * [Email Templates](features/email-templates.md)
