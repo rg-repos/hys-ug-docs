@@ -6,7 +6,7 @@ description: >-
 
 # Add Progress Report
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>create progress report form</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>create progress report form</p></figcaption></figure>
 
 When creating Progress report form, choose type of `Progress Report` so that its the right one being created.
 

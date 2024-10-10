@@ -6,7 +6,7 @@ description: A summary of all the activities that are associated with your organ
 
 On this page, you will find a list of features that provide a summarized view of the activities taking place in the platform, all associated with the organization. Additionally, any undefined settings that require immediate action will also be displayed here for easy accessibility.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>HelpYouSponsor Dashboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>HelpYouSponsor Dashboard</p></figcaption></figure>
 
 You can scroll down to view all of the dashboard. The dashboard contains the following options:
 
