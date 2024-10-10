@@ -33,3 +33,8 @@ Below the form you'll see the `Scheduled Reports` which will list the scheduled 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>scheduled reports</p></figcaption></figure>
 
 This will contain the name of report used, Frequency, duration and then next time you'll be receiving the next email
+
+Below is how the email will look like\
+
+
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
