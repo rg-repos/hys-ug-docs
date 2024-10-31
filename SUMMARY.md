@@ -43,10 +43,14 @@
   * [Admins](product-tour/admins-and-permission-sets/admins.md)
 * [Account Settings](product-tour/account-settings.md)
 
+***
+
+* [FIRST STEPS](first-steps/README.md)
+  * [Page](first-steps/page.md)
+
 ## Getting Started
 
 * [Stripe Setup](getting-started/stripe-setup.md)
-* [Page](getting-started/page.md)
 * [PayPal  Setup](getting-started/paypal-setup.md)
 * [Mailgun Setup](getting-started/mailgun-setup.md)
 * [Authorize.Net Setup](getting-started/authorize.net-setup.md)
