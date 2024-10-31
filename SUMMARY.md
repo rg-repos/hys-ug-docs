@@ -46,6 +46,7 @@
 ## Getting Started
 
 * [Stripe Setup](getting-started/stripe-setup.md)
+* [Page](getting-started/page.md)
 * [PayPal  Setup](getting-started/paypal-setup.md)
 * [Mailgun Setup](getting-started/mailgun-setup.md)
 * [Authorize.Net Setup](getting-started/authorize.net-setup.md)
