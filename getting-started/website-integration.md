@@ -2,7 +2,7 @@
 
 ### Website Integration
 
-Integrating HelpYouSponsor with your Website
+Integrating HelpYouSponsor with your Website.
 
 > You will see notice that each individual program has a unique frontend URL that looks something like this:\
 > https://app.helpyousponsor.com/frontend/view\_all/1/2\
