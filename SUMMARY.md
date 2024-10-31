@@ -45,15 +45,15 @@
 
 ***
 
-* [GET STARTED](get-started/README.md)
-  * [Stripe Setup](get-started/stripe-setup.md)
-  * [PayPal  Setup](get-started/paypal-setup.md)
-  * [Mailgun Setup](get-started/mailgun-setup.md)
-  * [Authorize.Net Setup](get-started/authorize.net-setup.md)
-  * [Box Image Storage Setup](get-started/box-image-storage-setup.md)
-  * [Website Integration](get-started/website-integration.md)
-  * [Front End Template](get-started/front-end-template.md)
-  * [Campaign Setup](get-started/campaign-setup.md)
+* [GETTING STARTED](getting-started.md)
+* [Mailgun Setup](mailgun-setup.md)
+* [Authorize.Net Setup](authorize.net-setup.md)
+* [Box Image Storage Setup](box-image-storage-setup.md)
+* [Website Integration](website-integration.md)
+* [Front End Template](front-end-template.md)
+* [Campaign Setup](campaign-setup.md)
+* [Stripe Setup](stripe-setup.md)
+* [PayPal  Setup](paypal-setup.md)
 
 ## Features
 
