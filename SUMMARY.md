@@ -45,8 +45,8 @@
 
 ***
 
-* [FIRST STEPS](first-steps/README.md)
-  * [Page](first-steps/page.md)
+* [GET STARTED](get-started/README.md)
+  * [Page](get-started/page.md)
 
 ## Getting Started
 
