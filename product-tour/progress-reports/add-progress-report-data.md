@@ -17,9 +17,9 @@ Then you choose from the list of report options once you click the report button
 You will be redirected to a page where you'll be able to see a list of reports added and also add new ones\
 
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>reports page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>reports page</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>input data</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>input data</p></figcaption></figure>
 
 Then you can click the button to add new records, these fields depend on what you added onto the form.
 
